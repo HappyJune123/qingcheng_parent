@@ -1,4 +1,4 @@
-# qingcheng_parent
+# 青橙
 创建第一个电商项目
 
 技术选型：
